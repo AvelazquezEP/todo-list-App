@@ -1,3 +1,5 @@
+import { useRouter } from 'next/router';
+
 import { Inter } from 'next/font/google'
 import './globals.css'
 
