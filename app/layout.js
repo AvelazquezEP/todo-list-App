@@ -1,4 +1,5 @@
-import { useRouter } from 'next/router';
+// Can use the useRouter in the layout file, this its only for the pages files
+// import { useRouter } from 'next/router';
 
 import { Inter } from 'next/font/google'
 import './globals.css'
